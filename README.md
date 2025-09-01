@@ -1,4 +1,4 @@
-\# Personal Urge Predictor + Alert System
+# Personal Urge Predictor + Alert System
 
 
 
@@ -10,7 +10,7 @@ A free, zero-config system to predict urges before they happen, log daily report
 
 
 
-\## Features
+## Features
 
 
 
@@ -32,7 +32,7 @@ A free, zero-config system to predict urges before they happen, log daily report
 
 
 
-\## Repo Structure
+## Repo Structure
 
 
 
@@ -88,11 +88,11 @@ urge-predictor/
 
 
 
-\## Setup Instructions
+## Setup Instructions
 
 
 
-\### Backend
+### Backend
 
 
 
@@ -206,7 +206,7 @@ npm run dev
 
 
 
-\## Usage
+## Usage
 
 
 
@@ -234,7 +234,7 @@ npm run dev
 
 
 
-\## Extending the System
+## Extending the System
 
 
 
@@ -252,7 +252,7 @@ npm run dev
 
 
 
-\## Notes
+## Notes
 
 
 
@@ -278,7 +278,7 @@ A free, zero-config system to predict urges before they happen, log daily report
 
 
 
-\## Features
+## Features
 
 
 
@@ -300,7 +300,7 @@ A free, zero-config system to predict urges before they happen, log daily report
 
 
 
-\## Repo Structure
+## Repo Structure
 
 
 
@@ -356,11 +356,11 @@ urge-predictor/
 
 
 
-\## Setup Instructions
+## Setup Instructions
 
 
 
-\### Backend
+### Backend
 
 
 
@@ -426,7 +426,7 @@ uvicorn backend.main:app --reload
 
 
 
-\### Frontend
+### Frontend
 
 
 
@@ -474,7 +474,7 @@ npm run dev
 
 
 
-\## Usage
+## Usage
 
 
 
@@ -502,7 +502,7 @@ npm run dev
 
 
 
-\## Extending the System
+## Extending the System
 
 
 
@@ -520,7 +520,7 @@ npm run dev
 
 
 
-\## Notes
+## Notes
 
 
 
@@ -538,11 +538,6 @@ npm run dev
 
 
 
-\## License
-
-
-
-MIT License — free to use and modify.
 
 
 
